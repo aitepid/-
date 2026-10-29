@@ -1,0 +1,6 @@
+{
+  "name": "HilbertOS - Distributed Machine-Code AI Supercomputer",
+  "description": "Next-gen distributed operating system connecting PC and mobile devices into a Hilbert-curve spatial computing grid with AI dynamic dispatch, low-level machine code execution, and zero-trust P2P encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
